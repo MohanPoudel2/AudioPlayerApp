@@ -1,0 +1,47 @@
+[
+  {
+    "title":"Besharam Rang",
+    "text":"Pathaan",
+    "img": "assets/image/besharam.jpg",
+    "audio": "https://pagalsong.in/uploads/systemuploads/mp3/Pathaan/Besharam%20Rang%20-%20Pathaan%20128%20Kbps.mp3"
+  },
+  {
+    "title":"Jhoome Jo Pathaan",
+    "text":"Pathaan",
+    "img": "assets/image/jhoome.jpg",
+    "audio": "https://pagalsong.in/uploads/systemuploads/mp3/Pathaan/Jhoome%20Jo%20Pathaan%20-%20Pathaan%20128%20Kbps.mp3"
+  },
+  {
+    "title":"Jabra",
+    "text":"Fan",
+    "img": "assets/image/jabra.jpg",
+    "audio": "https://pagalsong.in/uploads/systemuploads/mp3/Fan/01%20-%20Jabra%20Fan%20(Hindi).mp3"
+  },
+
+  {
+    "rating": "4.5",
+    "title":"Mere Naam Tu",
+    "text":"Zero",
+    "img": "assets/image/mere.jpg",
+    "audio": "https://pagalsong.in/uploads/systemuploads/mp3/Zero/Mere%20Naam%20Tu%20-%20Zero%20128%20Kbps.mp3"
+  },
+  {
+    "title":"Saanson Ke",
+    "text":"Raees",
+    "img": "assets/image/saanonke.jpg",
+    "audio": "https://cdn.pagalworld.us/songs/320kbps/Raees%202017%20-%20Saanson%20Ke.mp3"
+  },
+  {
+    "title":"Udi Udi Jaye",
+    "text":"Raees",
+    "img": "assets/image/udi.jpg",
+    "audio": "https://cdn.pagalworld.us/songs/320kbps/Raees%202017%20-%20Udi%20Udi%20Jaye.mp3"
+  },
+  {
+    "title":"Zaalima",
+    "text":"Raees",
+    "img": "assets/image/zaalima.jpg",
+    "audio": "https://cdn.pagalworld.us/songs/320kbps/Raees%202017%20-%20Zaalima.mp3"
+  }
+
+]
